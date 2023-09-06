@@ -3,7 +3,7 @@ Gitflow là quy trình làm việc trên git tập trung vào các bản release
 
 ![Main and develop branch](./images/main-develop-branch.svg)
 
-## Branch main(master) và branch developz
+## Branch main(master) và branch develop
 - **main**: là branch ở vị trí cao nhất của dự án, chứa toàn bộ source của bản release mới nhất.
 - **develop**: là branch được tách ra từ branch main, branch này sẽ chứa quá trình làm việc cho tới hiện tại của dự án.
 
